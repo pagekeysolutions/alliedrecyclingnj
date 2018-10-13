@@ -40,3 +40,7 @@ hr {
 .featurette div img {
   width: 100%;
 }
+
+.jumbotron {
+  margin-top: 1em;
+}
