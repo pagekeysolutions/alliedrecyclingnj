@@ -1,0 +1,15 @@
+footer {
+  width: 100%;
+  padding: 0.5em;
+  text-align: center;
+}
+footer .footer-inner {
+  width: 80%;
+  margin: auto;
+}
+footer a {
+  color: inherit;
+}
+footer .smalltext {
+  font-size: 0.7rem;
+}
